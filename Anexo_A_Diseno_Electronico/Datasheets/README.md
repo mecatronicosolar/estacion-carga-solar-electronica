@@ -1,11 +1,6 @@
 
 # Hojas de datos y documentación técnica de componentes
 
-**Trabajo de grado:** Diseño y validación a escala de una estación de carga vehicular con energía solar, almacenamiento en baterías y respaldo de red.
-
-**Programa:** Ingeniería Mecatrónica  
-**Institución:** Pontificia Universidad Javeriana
-
 ---
 
 ## 1. Descripción general
@@ -77,23 +72,8 @@ Se incluyen tanto hojas de datos como manuales de instalación y operación cuan
 
 ---
 
-## 4. Relación con el diseño electrónico
 
-La selección e integración de los componentes se encuentra representada en los diagramas del sistema y, cuando corresponde, en el esquemático electrónico desarrollado en Altium Designer.
-
-La documentación del diseño comprende:
-
-| Archivo | Descripción |
-|---|---|
-| [Esquemático electrónico (PDF)](../Dise%C3%B1o_PCB/Esquematico_Trabajo_de_Grado_Estacion_de_Carga_Vehicular.pdf) | Representación gráfica de los componentes electrónicos y sus conexiones. |
-| [Esquemático editable (.SchDoc)](../Dise%C3%B1o_PCB/Esquematico_Tesis.SchDoc) | Archivo fuente del diseño esquemático desarrollado en Altium Designer. |
-| [Directorio de diseño PCB](../Dise%C3%B1o_PCB/) | Archivos relacionados con el diseño y distribución de la tarjeta de circuito impreso. |
-
-Los archivos editables permiten consultar los diseños originales, mientras que la versión en PDF facilita su visualización sin necesidad de disponer de Altium Designer.
-
----
-
-## 5. Consideraciones técnicas
+## 4. Consideraciones técnicas
 
 - Las especificaciones técnicas deben verificarse de acuerdo con la referencia y versión del componente empleado.
 - Los valores eléctricos y las condiciones de operación indicados por los fabricantes constituyen la referencia para la selección e integración de dispositivos.
