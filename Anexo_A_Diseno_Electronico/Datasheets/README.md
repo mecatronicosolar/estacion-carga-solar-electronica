@@ -19,7 +19,7 @@ Estos documentos constituyen material de referencia para el diseño, dimensionam
 
 | Componente | Función dentro del sistema | Documentación |
 |---|---|---|
-| Panel solar Suntech 550 W | Generación de energía eléctrica a partir de radiación solar. | [Ficha técnica](./Panel%20Solar%20Suntech%20550W.pdf) |
+| Panel solar Suntech 550 W | Generación de energía eléctrica a partir de radiación solar. | [Ficha técnica](Anexo_A_Diseno_Electronico/Datasheets/Panel Solar Suntech 550W.pdf) |
 | Controlador de carga MPPT ML2440 | Regulación de la energía proveniente del sistema fotovoltaico y gestión de carga del banco de baterías. | [Ficha técnica](./Ficha_tecnica_Controlador_MPPT_sr_ml_12_24-LCD.pdf) / [Manual](./manual-Controlador-mppt-12-24.pdf) |
 | Inversor de onda sinusoidal pura 1000 W | Conversión de corriente continua (DC) a corriente alterna (AC) para alimentar la estación de carga. | [Ficha técnica](./datasheet-inversor-belttt.pdf) / [Manual](./manual-de-usuario-inversor-onda-pura-1000w-12v-belttt.pdf) |
 
