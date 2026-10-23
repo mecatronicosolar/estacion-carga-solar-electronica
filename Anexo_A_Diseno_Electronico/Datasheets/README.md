@@ -60,7 +60,7 @@ La selección e integración de los componentes se encuentra representada en los
 
 Los archivos del esquemático pueden consultarse en el directorio:
 
-[**Ver esquemático electrónico**](../Esquematico/)
+[**Ver esquemático electrónico**](Anexo_A_Diseno_Electronico/Diseño_PCB/Esquematico_Tesis.SchDoc)
 
 ## 5. Consideraciones
 
@@ -71,6 +71,6 @@ Los archivos del esquemático pueden consultarse en el directorio:
 
 ---
 
-**Trabajo de grado — Ingeniería Mecatrónica**
+**Trabajo de grado para optar por el título de Ingeniero Mecatrónico - Diseño y validación a escala de una estación de carga vehicular con energía solar, almacenamiento en baterías y respaldo de red**
 
 **Pontificia Universidad Javeriana**
