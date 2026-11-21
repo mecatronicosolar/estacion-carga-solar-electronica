@@ -19,6 +19,7 @@ estacion-carga-solar-electronica-main/
 ├── Anexo_A_Diseno_Electronico/
 │   └── Diseño_PCB/
 │       ├── README.md
+│       ├──Conexiones hardware Final.pdf
 │       ├── Esquematico_Tesis.SchDoc
 │       ├── Esquematico_Trabajo_de_Grado_Estacion_de_Carga_Vehicular.pdf
 │       └── PCBintento 22222conintegrado.PcbDoc
