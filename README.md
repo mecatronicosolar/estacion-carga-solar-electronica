@@ -8,7 +8,7 @@ Este repositorio reúne los archivos de diseño electrónico de la tarjeta de ci
 
 | Sección | Contenido | Acceso |
 |---|---|---|
-| **Anexo A. Diseño electrónico** | Esquemático del circuito, representación en PDF y archivos editables del diseño esquemático y de la PCB realizados en Altium Designer. | [Consultar diseño electrónico](<Anexo_A_Diseno_Electronico/Diseño_PCB/README.md>) |
+| **Anexo A. Diseño electrónico** | Esquemático del circuito, representación en PDF, diagrama de conexiones de hardware y archivos editables del diseño esquemático y de la PCB realizados en Altium Designer. | [Consultar diseño electrónico](<Anexo_A_Diseno_Electronico/Diseño_PCB/README.md>) |
 | **Anexo C. Pruebas de caracterización** | Trece protocolos de prueba (P01–P13) para sensores, acondicionamiento de señales, adquisición de datos, comunicaciones e integración de subsistemas. | [Consultar protocolos de caracterización](<Anexo_C_Pruebas_de_Caracterizacion/PRUEBAS_DE_CARACTERIZACION/README.md>) |
 
 ### Estructura de carpetas
